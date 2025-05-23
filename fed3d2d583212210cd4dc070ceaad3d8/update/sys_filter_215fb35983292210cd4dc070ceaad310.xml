@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_filter">
+    <sys_filter action="INSERT_OR_UPDATE">
+        <filter table="x_1754488_unit_professores">location=654e33d583292210cd4dc070ceaad397^EQ<item display_table="cmn_location" display_value="UNIT-AL" endquery="false" field="location" goto="false" newquery="false" operator="=" or="false" value="654e33d583292210cd4dc070ceaad397"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <group/>
+        <last_used/>
+        <mobile>false</mobile>
+        <roles/>
+        <sys_class_name>sys_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-16 02:12:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>215fb35983292210cd4dc070ceaad310</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Professores UNIT-AL</sys_name>
+        <sys_package display_value="UNIT" source="x_1754488_unit">fed3d2d583212210cd4dc070ceaad3d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">fed3d2d583212210cd4dc070ceaad3d8</sys_scope>
+        <sys_update_name>sys_filter_215fb35983292210cd4dc070ceaad310</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-16 02:12:10</sys_updated_on>
+        <table>x_1754488_unit_professores</table>
+        <title>Professores UNIT-AL</title>
+        <user/>
+    </sys_filter>
+    <sys_translated_text action="delete_multiple" query="documentkey=215fb35983292210cd4dc070ceaad310"/>
+</record_update>
