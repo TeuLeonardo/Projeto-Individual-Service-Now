@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>enfase</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-27 01:12:39</sys_created_on>
+        <sys_id>adfa584d83fd6210cd4dc070ceaad30c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>enfase</sys_name>
+        <sys_package display_value="UNIT" source="x_1754488_unit">fed3d2d583212210cd4dc070ceaad3d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">fed3d2d583212210cd4dc070ceaad3d8</sys_scope>
+        <sys_update_name>sys_ui_policy_action_adfa584d83fd6210cd4dc070ceaad30c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-27 01:12:39</sys_updated_on>
+        <table>x_1754488_unit_alunos</table>
+        <ui_policy display_value="Visível a partir do 7° Período.">64e7d84983fd6210cd4dc070ceaad3df</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=adfa584d83fd6210cd4dc070ceaad30c"/>
+</record_update>

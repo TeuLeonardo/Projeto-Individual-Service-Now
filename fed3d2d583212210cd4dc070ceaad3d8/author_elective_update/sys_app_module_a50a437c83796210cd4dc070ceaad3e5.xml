@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Solicitação de serviços acadêmicos">a90a437c83796210cd4dc070ceaad3e1</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Solicitação de Serviços Acadêmicos</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1754488_unit_solicita_o_de_servi_os_acad_micos</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_1754488_unit.solicita_o_de_servi_os_acad_micos_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 19:17:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a50a437c83796210cd4dc070ceaad3e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Solicitação de Serviços Acadêmicos</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UNIT" source="x_1754488_unit">fed3d2d583212210cd4dc070ceaad3d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">fed3d2d583212210cd4dc070ceaad3d8</sys_scope>
+        <sys_update_name>sys_app_module_a50a437c83796210cd4dc070ceaad3e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 19:17:58</sys_updated_on>
+        <timeline_page/>
+        <title>Solicitação de Serviços Acadêmicos</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UNIT">fed3d2d583212210cd4dc070ceaad3d8</application>
+        <file_path/>
+        <instance_id>efab853a1b8ac21077c7cb7b234bcb83</instance_id>
+        <instance_name>dev268569</instance_name>
+        <name>sys_app_module_a50a437c83796210cd4dc070ceaad3e5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Solicitação de serviços acadêmicos">a90a437c83796210cd4dc070ceaad3e1</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Solicitação de Serviços Acadêmicos</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1754488_unit_solicita_o_de_servi_os_acad_micos</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_1754488_unit.solicita_o_de_servi_os_acad_micos_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-26 19:17:58</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a50a437c83796210cd4dc070ceaad3e5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Solicitação de Serviços Acadêmicos</sys_name><sys_overrides/><sys_package display_value="UNIT" source="x_1754488_unit">fed3d2d583212210cd4dc070ceaad3d8</sys_package><sys_policy/><sys_scope display_value="UNIT">fed3d2d583212210cd4dc070ceaad3d8</sys_scope><sys_update_name>sys_app_module_a50a437c83796210cd4dc070ceaad3e5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-26 19:17:58</sys_updated_on><timeline_page/><title>Solicitação de Serviços Acadêmicos</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1789814044</payload_hash>
+        <record_name>Solicitação de Serviços Acadêmicos</record_name>
+        <reverted_from/>
+        <source>2a38332f83292610cd4dc070ceaad3d3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 19:17:58</sys_created_on>
+        <sys_id>a10a437c83796210cd4dc070ceaad3f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1970e07bffa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 19:17:58</sys_updated_on>
+        <type>Module</type>
+        <update_guid>650a437c657962108f0145fc0e0e68f4</update_guid>
+        <update_guid_history>650a437c657962108f0145fc0e0e68f4:-1789814044</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Solicitação de Serviços Acadêmicos">831a477c83796210cd4dc070ceaad37d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 19:18:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>03e16b8e19b14a8b80ce7f80a074ee79</sys_id>
+        <sys_metadata>a50a437c83796210cd4dc070ceaad3e5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Solicitação de Serviços Acadêmicos</sys_name>
+        <sys_package display_value="UNIT" source="x_1754488_unit">fed3d2d583212210cd4dc070ceaad3d8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">fed3d2d583212210cd4dc070ceaad3d8</sys_scope>
+        <sys_scope_delete display_value="">e53770c0ca3344ec898f4ea044270a90</sys_scope_delete>
+        <sys_update_name>sys_app_module_a50a437c83796210cd4dc070ceaad3e5</sys_update_name>
+        <sys_update_version display_value="sys_app_module_a50a437c83796210cd4dc070ceaad3e5">a10a437c83796210cd4dc070ceaad3f5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 19:18:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

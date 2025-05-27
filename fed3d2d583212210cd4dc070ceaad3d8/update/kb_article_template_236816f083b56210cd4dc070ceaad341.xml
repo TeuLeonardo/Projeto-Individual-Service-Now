@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="kb_article_template">
+    <kb_article_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer_ref display_value="Plano de Aula">3ba85af083b56210cd4dc070ceaad31c</answer_ref>
+        <article_template>Plano de Aula</article_template>
+        <child_table>u_kb_template_template_secretaria_virtual</child_table>
+        <description/>
+        <meta_description_field/>
+        <sys_class_name>kb_article_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 15:42:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>236816f083b56210cd4dc070ceaad341</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Plano de Aula</sys_name>
+        <sys_package display_value="UNIT" source="x_1754488_unit">fed3d2d583212210cd4dc070ceaad3d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UNIT">fed3d2d583212210cd4dc070ceaad3d8</sys_scope>
+        <sys_update_name>kb_article_template_236816f083b56210cd4dc070ceaad341</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 23:45:45</sys_updated_on>
+    </kb_article_template>
+</record_update>
