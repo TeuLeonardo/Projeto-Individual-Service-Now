@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2025-06-02 14:25:32">
+<x_1754488_unit_professores action="INSERT_OR_UPDATE">
+<active>true</active>
+<ativo>true</ativo>
+<avatar/>
+<building display_value=""/>
+<calendar_integration>1</calendar_integration>
+<city/>
+<company display_value=""/>
+<cost_center display_value=""/>
+<country/>
+<data_de_contratacao>2025-01-01</data_de_contratacao>
+<data_de_demissao>2025-05-26</data_de_demissao>
+<data_de_nascimento>2025-05-16</data_de_nascimento>
+<date_format/>
+<default_perspective display_value=""/>
+<department display_value=""/>
+<edu_status>faculty</edu_status>
+<email>aldo@gmail.com</email>
+<employee_number/>
+<enable_multifactor_authn>false</enable_multifactor_authn>
+<failed_attempts/>
+<federated_id>SAUjPyngmFksNzhOe5GVe4TOOQZmEn4idcSzeWQCUeY=</federated_id>
+<first_name>Aldo</first_name>
+<gender/>
+<home_phone/>
+<internal_integration_user>false</internal_integration_user>
+<introduction/>
+<last_login/>
+<last_login_device/>
+<last_login_time/>
+<last_name>Moura</last_name>
+<last_password/>
+<ldap_server display_value=""/>
+<location display_value="UNIT-SE">22edf7d583292210cd4dc070ceaad370</location>
+<locked_out>false</locked_out>
+<manager display_value="Arlindo Correa">2a6f5e2d83612210cd4dc070ceaad397</manager>
+<middle_name/>
+<mobile_phone/>
+<name>Aldo Moura</name>
+<notification>2</notification>
+<numero_de_matricula>123432</numero_de_matricula>
+<password_needs_reset>false</password_needs_reset>
+<phone/>
+<photo/>
+<preferred_language/>
+<roles/>
+<schedule display_value=""/>
+<source/>
+<state/>
+<street/>
+<sys_class_name>x_1754488_unit_professores</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-16 19:00:31</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>a4f567ed83a52210cd4dc070ceaad3ae</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-27 01:23:31</sys_updated_on>
+<time_format/>
+<time_zone/>
+<title/>
+<user_name>aldo.moura</user_name>
+<user_password/>
+<vip>false</vip>
+<web_service_access_only>false</web_service_access_only>
+<zip/>
+</x_1754488_unit_professores>
+<x_1754488_unit_professores action="INSERT_OR_UPDATE">
+<active>true</active>
+<ativo>false</ativo>
+<avatar/>
+<building display_value=""/>
+<calendar_integration>1</calendar_integration>
+<city/>
+<company display_value=""/>
+<cost_center display_value=""/>
+<country/>
+<data_de_contratacao>2025-01-01</data_de_contratacao>
+<data_de_demissao>2025-05-26</data_de_demissao>
+<data_de_nascimento>1970-05-16</data_de_nascimento>
+<date_format/>
+<default_perspective display_value=""/>
+<department display_value=""/>
+<edu_status>faculty</edu_status>
+<email>oscar@gamil.com</email>
+<employee_number/>
+<enable_multifactor_authn>false</enable_multifactor_authn>
+<failed_attempts/>
+<federated_id>19Pus1+mQsCIyB8qVYhIm9ARxO0WqHaHYO6kMzmxzmo=</federated_id>
+<first_name>Oscar</first_name>
+<gender/>
+<home_phone/>
+<internal_integration_user>false</internal_integration_user>
+<introduction/>
+<last_login/>
+<last_login_device/>
+<last_login_time/>
+<last_name>Gonçalves</last_name>
+<last_password/>
+<ldap_server display_value=""/>
+<location display_value="UNIT-PE">04bd77d583292210cd4dc070ceaad356</location>
+<locked_out>false</locked_out>
+<manager display_value="Arlindo Correa">2a6f5e2d83612210cd4dc070ceaad397</manager>
+<middle_name/>
+<mobile_phone/>
+<name>Oscar Gonçalves</name>
+<notification>2</notification>
+<numero_de_matricula>12324</numero_de_matricula>
+<password_needs_reset>false</password_needs_reset>
+<phone/>
+<photo/>
+<preferred_language/>
+<roles/>
+<schedule display_value=""/>
+<source/>
+<state/>
+<street/>
+<sys_class_name>x_1754488_unit_professores</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-16 13:38:12</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>bf9bd22983612210cd4dc070ceaad343</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-27 01:25:20</sys_updated_on>
+<time_format/>
+<time_zone/>
+<title/>
+<user_name>oscar.gonçalves</user_name>
+<user_password/>
+<vip>false</vip>
+<web_service_access_only>false</web_service_access_only>
+<zip/>
+</x_1754488_unit_professores>
+<x_1754488_unit_professores action="INSERT_OR_UPDATE">
+<active>true</active>
+<ativo>false</ativo>
+<avatar/>
+<building display_value=""/>
+<calendar_integration>1</calendar_integration>
+<city/>
+<company display_value=""/>
+<cost_center display_value=""/>
+<country/>
+<data_de_contratacao>2025-01-01</data_de_contratacao>
+<data_de_demissao>2025-05-16</data_de_demissao>
+<data_de_nascimento>1970-05-16</data_de_nascimento>
+<date_format/>
+<default_perspective display_value=""/>
+<department display_value=""/>
+<edu_status>faculty</edu_status>
+<email>clovesrocha@gmail.com</email>
+<employee_number/>
+<enable_multifactor_authn>false</enable_multifactor_authn>
+<failed_attempts/>
+<federated_id>W3Jh8LAzRYazafIdsMHpb4oNzT3ftdVmNaLW+bJXFJM=</federated_id>
+<first_name>Cloves</first_name>
+<gender/>
+<home_phone/>
+<internal_integration_user>false</internal_integration_user>
+<introduction/>
+<last_login/>
+<last_login_device/>
+<last_login_time/>
+<last_name>Rocha</last_name>
+<last_password/>
+<ldap_server display_value=""/>
+<location display_value="UNIT-AL">654e33d583292210cd4dc070ceaad397</location>
+<locked_out>false</locked_out>
+<manager display_value="Arlindo Correa">2a6f5e2d83612210cd4dc070ceaad397</manager>
+<middle_name/>
+<mobile_phone/>
+<name>Cloves Rocha</name>
+<notification>2</notification>
+<numero_de_matricula>12345</numero_de_matricula>
+<password_needs_reset>false</password_needs_reset>
+<phone/>
+<photo/>
+<preferred_language/>
+<roles/>
+<schedule display_value=""/>
+<source/>
+<state/>
+<street/>
+<sys_class_name>x_1754488_unit_professores</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-16 13:34:31</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>d45b5ee583612210cd4dc070ceaad341</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-16 18:51:06</sys_updated_on>
+<time_format/>
+<time_zone/>
+<title/>
+<user_name>cloves.rocha</user_name>
+<user_password/>
+<vip>false</vip>
+<web_service_access_only>false</web_service_access_only>
+<zip/>
+</x_1754488_unit_professores>
+</unload>
